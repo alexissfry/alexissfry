@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alexis, and I'm a sophomore at Brown University studying Computer Science! I'm also pursuing a certificate (aka minor) in Entrepreneurship. I'm an impact-focused individual who loves to build cool products (check some of them out below!).
+
+Feel free to visit my [website](https://www.alexisfry.com/) to learn more about me or contact me. 
