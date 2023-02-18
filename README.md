@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I'm Alexis, and I'm a sophomore at Brown University studying Computer Science! I'm also pursuing a certificate (aka minor) in Entrepreneurship. I'm an impact-focused individual who loves to create cool products (check some of them out below!) and build communities focused around diversifying tech, like [Creatica](https://www.creatica.io/).
 
-Feel free to visit my [website](https://www.alexisfry.com/) to learn more about me or contact me!
+Feel free to contact me at alexis_fry@brown.edu!
